@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>FFFFFF</corfondo>
+        <corbanda>808080</corbanda>
+        <cornavega>C0C0C0</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>TRABAEMOS LAS OPERACIONES MATEMATICAS</titulo>
+        <subtitulo>Operaciones basicas</subtitulo>
+        <autor>Alky Padilla</autor>
+        <logo>Gemini_Generated_Image_sn7q8usn7q8usn7q.png</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="Efecto_de_sonido,_bien,_win,_ganador,_acierto.mp3" modo="1" >felicitaciones ¡que bien!</correcto>
+        <incorrecto son="Efecto_sonido_de_fallo_(_Sonido_fail_).mp3" modo="1" >intentalo de nuevo... casi lo logras</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">ChatGPT_Image_13_sept_2025,_14_54_18.png</imaxe>
+              <texto posx="267" posy="43" ancho="200" largo="200"><![CDATA[
+<p align="left">
+<font color="#000000" face="Arial" size="12"><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">Post_Facebook_Clases_de_Matem_aticas_Creativo_Verde.png</imaxe>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">Post_Facebook_Clases_de_Matem_aticas_Creativo_Verde_(1).png</imaxe>
+        </paxina>
+        <paxina id="4" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">Post_Facebook_Clases_de_Matem_aticas_Creativo_Verde_(2).png</imaxe>
+        </paxina>
+        <paxina id="5" >
+              <tipo>33</tipo>
+              <modo>0</modo>
+              <forma>4</forma>
+              <numero>4</numero>
+              <numero>4</numero>
+        </paxina>
+        <paxina id="6" >
+              <tipo>33</tipo>
+              <modo>0</modo>
+              <forma>0</forma>
+              <numero>6</numero>
+              <numero>6</numero>
+        </paxina>
+        <paxina id="7" >
+              <tipo>33</tipo>
+              <modo>0</modo>
+              <forma>0</forma>
+              <numero>6</numero>
+              <numero>6</numero>
+        </paxina>
+        <paxina id="8" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">Post_Facebook_Clases_de_Matem_aticas_Creativo_Verde_(3).png</imaxe>
+        </paxina>
+        <paxina id="9" >
+              <tipo>33</tipo>
+              <modo>0</modo>
+              <forma>5</forma>
+              <numero>2</numero>
+              <numero>2</numero>
+        </paxina>
+        <paxina id="10" >
+              <tipo>33</tipo>
+              <modo>0</modo>
+              <forma>5</forma>
+              <numero>3</numero>
+              <numero>3</numero>
+        </paxina>
+        <paxina id="11" >
+              <tipo>33</tipo>
+              <modo>0</modo>
+              <forma>5</forma>
+              <numero>4</numero>
+              <numero>4</numero>
+        </paxina>
+        <paxina id="12" >
+              <tipo>33</tipo>
+              <modo>0</modo>
+              <forma>5</forma>
+              <numero>5</numero>
+              <numero>5</numero>
+        </paxina>
+        <paxina id="13" >
+              <tipo>33</tipo>
+              <modo>0</modo>
+              <forma>1</forma>
+              <numero>6</numero>
+              <numero>6</numero>
+        </paxina>
+        <paxina id="14" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">Post_Facebook_Clases_de_Matem_aticas_Creativo_Verde_(4).png</imaxe>
+        </paxina>
+        <paxina id="15" >
+              <tipo>33</tipo>
+              <modo>0</modo>
+              <forma>6</forma>
+              <numero>2</numero>
+              <numero>2</numero>
+        </paxina>
+        <paxina id="16" >
+              <tipo>33</tipo>
+              <modo>0</modo>
+              <forma>6</forma>
+              <numero>3</numero>
+              <numero>2</numero>
+        </paxina>
+        <paxina id="17" >
+              <tipo>33</tipo>
+              <modo>0</modo>
+              <forma>6</forma>
+              <numero>4</numero>
+              <numero>2</numero>
+        </paxina>
+        <paxina id="18" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">Post_Facebook_Clases_de_Matem_aticas_Creativo_Verde_(5).png</imaxe>
+        </paxina>
+        <paxina id="19" >
+              <tipo>33</tipo>
+              <modo>0</modo>
+              <forma>7</forma>
+              <numero>3</numero>
+              <numero>1</numero>
+        </paxina>
+        <paxina id="20" >
+              <tipo>33</tipo>
+              <modo>0</modo>
+              <forma>7</forma>
+              <numero>3</numero>
+              <numero>2</numero>
+        </paxina>
+        <paxina id="21" >
+              <tipo>33</tipo>
+              <modo>0</modo>
+              <forma>7</forma>
+              <numero>4</numero>
+              <numero>2</numero>
+        </paxina>
+        <paxina id="22" >
+              <tipo>33</tipo>
+              <modo>0</modo>
+              <forma>7</forma>
+              <numero>5</numero>
+              <numero>2</numero>
+        </paxina>
+        <paxina id="23" >
+              <tipo>44</tipo>
+        </paxina>
+    </libro>
+</lim>
